@@ -1,0 +1,20 @@
+#
+# fips-nfd
+#
+---
+run:
+    nfd-opendialog:
+        cwd: .
+    nfd-opendialogmultiple:
+        cwd: .
+    nfd-pickfolder:
+        cwd: .
+    nfd-savedialog:
+        cwd: .
+        
+exports:
+    header-dirs:
+        - nfd/src/include
+    modules:
+        nfd: .
+

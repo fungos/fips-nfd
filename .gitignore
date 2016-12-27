@@ -1,0 +1,12 @@
+*.swp
+.DS_Store
+#>fips
+# this area is managed by fips, do not edit
+.fips-*
+*.pyc
+#<fips
+bin/*
+obj/*
+make/*
+lib/*
+project/qtcreator-osx/efsw.creator.user.*
