@@ -15,4 +15,4 @@ imports:
          git: https://github.com/fungos/fips-nfd.git
 ```
 
-And them add a dependency to your project using `fips_deps(nfd)`.
+And then add as a dependency to your project using `fips_deps(nfd)`.
